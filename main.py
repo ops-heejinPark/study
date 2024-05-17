@@ -8,5 +8,4 @@ def main():
 if __name__ == "__main__":
     # main.py가 직접 실행될 때만 실행 됨
     main()
-
-
+    print("sdf")
